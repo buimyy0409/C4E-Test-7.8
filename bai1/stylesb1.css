@@ -1,0 +1,6 @@
+body{
+    background-color: lightblue;
+}
+button, label, input {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,39 @@
+body {
+  background: white;
+  transition: background-color 0.5s ease-in-out;
+  display: block;
+}
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: blanchedalmond;
+}
+label{
+    font-size: 24px;
+    color: blanchedalmond;
+}
+.color {
+  padding: 25px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: lightblue;
+}
+
+.copyBtn {
+  background: none;
+  border: none;
+  color: lightcoral;
+  cursor: pointer;
+}
+
+.gradient {
+  width: 250px;
+  height: 250px;
+  background-image: linear-gradient(
+    to center,
+    green,
+    yellow,
+  );
+}
